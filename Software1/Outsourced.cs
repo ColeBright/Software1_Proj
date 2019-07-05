@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Software1
 {
-    class Outsourced
+    public class Outsourced : Part_ab
     {
+        private string companyName;
+
+        public string getCompanyName();
+        public void setCompanyName(string);
+
     }
 }

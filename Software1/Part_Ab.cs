@@ -15,18 +15,18 @@ namespace Software1
         private int min;
         private int max;
 
-        public void setName(string) { };
-        public string getName() { };
-        public void setPrice(double) { };
-        public double getPrice() { };
-        public setInStock(int) { };
-        public int getInStock() { };
-        public setMin(int) { };
-        public int getMin() { };
-        public void setMax(int) { };
-        public int getMax() { };
-        public void setPartID(int);
-        public int getPartID();
+        public void setName(string name) { this.name = name; }
+        public string getName() { return name; }
+        public void setPrice(double price) { this.price = price; }
+        public double getPrice() { return price; }
+        public void setInStock(int inStock) { this.inStock = inStock; }
+        public int getInStock() { return inStock; }
+        public void setMin(int min) { this.min = min; }
+        public int getMin() { return min; }
+        public void setMax(int max) { this.max = max; }
+        public int getMax() { return max; }
+        public void setPartID(int partID) { this.partID = partID; }
+        public int getPartID() { return partID; }
 
     }
 }
