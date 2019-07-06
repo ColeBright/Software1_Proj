@@ -10,8 +10,11 @@ namespace Software1
     {
         private string companyName;
 
-        public string getCompanyName();
-        public void setCompanyName(string);
+        public Outsourced(int partID, string name, double price, int inStock, int min, int max, string companyName)
+            : base(partID, name, price, inStock, min, max)
+        { companyName = companyName; }
+        public string getCompanyName() { return companyName; }
+        public void setCompanyName(string companyName) { this.companyName = companyName; }
 
     }
 }

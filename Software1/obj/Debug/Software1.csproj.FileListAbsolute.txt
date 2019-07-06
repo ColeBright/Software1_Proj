@@ -1,0 +1,9 @@
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.csprojAssemblyReference.cache
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Form1.resources
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Add_Products.resources
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Form2.resources
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Modify_Part.resources
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Modify_Products.resources
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Properties.Resources.resources
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.csproj.GenerateResource.cache
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.csproj.CoreCompileInputs.cache

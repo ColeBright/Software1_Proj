@@ -59,12 +59,16 @@
     <Compile Include="Add_Products.Designer.cs">
       <DependentUpon>Add_Products.cs</DependentUpon>
     </Compile>
+    <Compile Include="Arraylist.cs" />
+    <Compile Include="ArrayList1.cs" />
     <Compile Include="Form2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Inhouse.cs" />
+    <Compile Include="Inventory.cs" />
     <Compile Include="Modify_Part.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +81,9 @@
     <Compile Include="Modify_Products.Designer.cs">
       <DependentUpon>Modify_Products.cs</DependentUpon>
     </Compile>
+    <Compile Include="Outsourced.cs" />
+    <Compile Include="Part_Ab.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="..\..\..\..\Desktop\Software 1\Software 1.resx">

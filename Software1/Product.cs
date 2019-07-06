@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
- "Part_Ab.cs";
 
 
 namespace Software1
 {
     class Product
     {
+      
         private Arraylist<Part_ab> associatedParts;
         private int productID;
         private string name;
@@ -28,7 +28,7 @@ namespace Software1
         public int getMin() { return min; }
         public void setMax(int max) { this.max = max; }
         public int getMax() { return max; }
-        public void addAssociatedPart(Part)
+        public void addAssociatedPart(Part_ab)
         public bool removeAssociatedPart(int)
         public Part_ab lookupAssociatedPart(int)
         public void setProductID(int)
