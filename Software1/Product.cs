@@ -28,11 +28,11 @@ namespace Software1
         public int getMin() { return min; }
         public void setMax(int max) { this.max = max; }
         public int getMax() { return max; }
-        public void addAssociatedPart(Part_ab)
-        public bool removeAssociatedPart(int)
-        public Part_ab lookupAssociatedPart(int)
-        public void setProductID(int)
-        public int getProductID()
+        //public void addAssociatedPart(Part_ab q);
+        //public bool removeAssociatedPart(int w);
+        //public Part_ab lookupAssociatedPart(int t);
+        public void setProductID(int y) { this.productID = productID; }
+        public int getProductID() { return productID; }
 
 
          

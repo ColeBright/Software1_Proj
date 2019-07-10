@@ -146,6 +146,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "In-House";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label8
             // 
@@ -164,6 +165,7 @@
             this.label7.Size = new System.Drawing.Size(108, 17);
             this.label7.TabIndex = 24;
             this.label7.Text = "Company Name";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label6
             // 

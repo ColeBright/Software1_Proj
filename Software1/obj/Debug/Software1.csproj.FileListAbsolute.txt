@@ -7,3 +7,8 @@ C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Modify_Produ
 C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.Properties.Resources.resources
 C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.csproj.GenerateResource.cache
 C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.csproj.CoreCompileInputs.cache
+C:\Users\coleb\source\repos\Software1\Software1\bin\Debug\Software1.exe.config
+C:\Users\coleb\source\repos\Software1\Software1\bin\Debug\Software1.exe
+C:\Users\coleb\source\repos\Software1\Software1\bin\Debug\Software1.pdb
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.exe
+C:\Users\coleb\source\repos\Software1\Software1\obj\Debug\Software1.pdb
